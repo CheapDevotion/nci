@@ -49,6 +49,7 @@
   "dependencies": {
     "colors": "1.1.2",
     "conform": "0.2.12",
+    "deepmerge": "^4.2.2",
     "junk": "1.0.3",
     "nlevel": "1.0.4",
     "through": "2.3.6",
